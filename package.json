@@ -1,5 +1,5 @@
 {
-  "name": "nazli-wa-bot",
+  "name": "nazliapane",
   "version": "1.0.0",
   "main": "bot.js",
   "scripts": {
@@ -10,3 +10,4 @@
     "qrcode-terminal": "^0.12.0"
   }
 }
+
